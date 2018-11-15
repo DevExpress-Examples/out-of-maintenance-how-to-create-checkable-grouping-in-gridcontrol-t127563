@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckableGroupBehavior.cs](./CS/DevExpress.Example03/CheckableGroupBehavior.cs) (VB: [CheckableGroupBehavior.vb](./VB/DevExpress.Example03/CheckableGroupBehavior.vb))
+* [DataHelper.cs](./CS/DevExpress.Example03/DataHelper.cs) (VB: [DataHelper.vb](./VB/DevExpress.Example03/DataHelper.vb))
+* [Employee.cs](./CS/DevExpress.Example03/Employee.cs) (VB: [Employee.vb](./VB/DevExpress.Example03/Employee.vb))
+* [GroupCheckBox.cs](./CS/DevExpress.Example03/GroupCheckBox.cs) (VB: [GroupCheckBox.vb](./VB/DevExpress.Example03/GroupCheckBox.vb))
+* **[MainWindow.xaml](./CS/DevExpress.Example03/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DevExpress.Example03/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/DevExpress.Example03/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DevExpress.Example03/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to create Checkable Grouping in GridControl
 
 ### Starting with v18.2, this functionality is supported in GridControl out of the box. Use TableView's [GroupRowCheckBoxFieldName](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TableView.GroupRowCheckBoxFieldName?v=18.2) property to show corresponding CheckBoxes in group rows.
