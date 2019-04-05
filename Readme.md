@@ -6,7 +6,7 @@
 * [Employee.cs](./CS/DevExpress.Example03/Employee.cs) (VB: [Employee.vb](./VB/DevExpress.Example03/Employee.vb))
 * [GroupCheckBox.cs](./CS/DevExpress.Example03/GroupCheckBox.cs) (VB: [GroupCheckBox.vb](./VB/DevExpress.Example03/GroupCheckBox.vb))
 * **[MainWindow.xaml](./CS/DevExpress.Example03/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DevExpress.Example03/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/DevExpress.Example03/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DevExpress.Example03/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DevExpress.Example03/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DevExpress.Example03/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to create Checkable Grouping in GridControl
 
